@@ -1,1 +1,0 @@
-print("hellow World & py2QQQQ")
